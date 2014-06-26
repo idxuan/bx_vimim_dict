@@ -2,8 +2,8 @@
 #     FileName: bx_vimim_dict.txt
 #         Desc: 小鹤双拼输入法码表
 #               可以修改成适合自己的字典
-#       Author: Xuan Jun (idxuanjun@gmail.com)
-#         Link: http://blog.csdn.net/idxuanjun
+#       Author: Jun Xuan (idxuan@hotmail.com)
+#         Link: http://idxuan.github.io
 #      Version: 0.0.1
 #   LastChange: 2014-04-22 18:55:34
 #      History:

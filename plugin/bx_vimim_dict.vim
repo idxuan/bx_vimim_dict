@@ -1,9 +1,9 @@
 "======================================================================
 "       FileName: bx_vimim_dict.vim
 "           Desc: 通过录入编码输出字典对应的信息
-"         Author: Xuan Jun (idxuanjun@gmail.com)
+"       Author: Jun Xuan (idxuan@hotmail.com)
+"         Link: http://idxuan.github.io
 "        License: GNU Lesser General Public License
-"           Link: http://idxuanjun.github.io
 "        Version: 0.1.0
 "     LastChange: 2014-05-01 21:02:03
 "        History:

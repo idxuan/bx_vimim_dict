@@ -2,8 +2,8 @@
 >       FileName: README.md
 >           Desc: Vim 字典输入
 >                 插件编码参考源自[vimim-wubi](http://code.google.com/p/vimim-wubi)
->         Author: Xuan Jun (idxuanjun@gmail.com)
->           Link: http://idxuanjun.github.io
+>         Author: Jun Xuan (idxuan@hotmail.com)
+>           Link: http://idxuan.github.io
 >        Version: 0.1.0
 >     LastChange: 2014-05-01 21:04:28
 >        History:
@@ -41,8 +41,9 @@ Vim 字典输入
 插件安装
 --------
 
-* 使用插件管理器（Vundle）：增加配置语句 Plugin 'idxuanjun/bx_vimim_dict'
-* 手工下载：[Github](https://github.com/idxuanjun/bx_vimim_dict) 。点击右下角“Download ZIP”，解压后把 bx_vimim_dict.vim 和字典文件 bx_vimim_*.txt 放到 vim 的 plugin 目录下即可。
+* 使用插件管理器（Vundle）：增加配置语句 Plugin 'idxuanjun/bx_vimim_dict'；
+* 手工下载：[Github](https://github.com/idxuanjun/bx_vimim_dict) 。点击右下角“Download ZIP”，解压后把“bx_vimim_dict.vim”和字典文件“bx_vimim_*.txt”放到 `Vim` 的“plugin”目录下即可；
+* 插件是中文输入插件，使用 `UTF-8`。所以 `Vim` 必须使用支持中文的编码，同时更改字典文件为相同编码。
 
 使用说明
 --------
